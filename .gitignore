@@ -1,0 +1,14 @@
+# 数据与密钥（永远不要提交）
+资产/
+secrets.json
+*.bak-*
+*.bak
+数据/
+聊天/
+日记/
+
+# 构建产物
+build/
+*.app
+*.pkg
+.DS_Store
